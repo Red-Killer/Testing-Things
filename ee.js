@@ -1,1 +1,3 @@
-alert("Website hacked by Red Killer");
+window.addEventListener('load', function () {
+  alert("Website hacked by Red Killer");
+})

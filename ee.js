@@ -1,0 +1,1 @@
+alert("Website hacked by Red Killer");
